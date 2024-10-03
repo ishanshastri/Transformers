@@ -7,3 +7,5 @@ I haven't done any evaluations yet, but got this result from one epoch of traini
 ![Predicted (top) vs Ground Truth](sample_inference.png)
 
 Room for improvement for sure !! More changes to come
+
+Note: the cleaned up notebook is in [bpe_tokenized_transformer](https://github.com/ishanshastri/Transformers/blob/main/bpe_tokenized_transformer.ipynb); I've included my 'rough work' in [bpe_tokenized_transformer_rough](https://github.com/ishanshastri/Transformers/blob/main/bpe_tokenized_transformer_rough.ipynb)

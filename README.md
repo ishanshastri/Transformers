@@ -1,6 +1,6 @@
 # Transformer Implementation
 
-My implementation of the original [Transformer](https://arxiv.org/abs/1706.03762), trained on Multi30k dataset on German to English translation. 
+My implementation of the original [Transformer](https://arxiv.org/abs/1706.03762), trained on Multi30k dataset for German to English translation. 
 
 I haven't done any evaluations yet, but got this result from one epoch of training through the whole dataset on my laptop: 
 
